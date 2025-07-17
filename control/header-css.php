@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="./assets/css/slick.css">
+<link rel="stylesheet" href="./assets/css/slick-theme.css">
+<link rel="stylesheet" href="lib/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" href="./assets/css/animation.css">
+<link rel="stylesheet" href="./assets/css/pl-dheeraj.css">
+<link rel="stylesheet" href="./assets/css/pl-sanju.css">
+<link rel="stylesheet" href="./assets/css/pl-supriya.css">
+<link rel="stylesheet" href="./assets/css/font-awesome.min.css">
